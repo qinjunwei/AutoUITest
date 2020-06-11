@@ -1,0 +1,8 @@
+#测试步骤驱动
+- id: tv_cgsyw
+- id: tv_item_content
+- id: tv_top
+- id: tv_bottom
+- xpath: //*[@text='车辆管理所京朝分所']
+- id: area_1
+- id: tv_sure
