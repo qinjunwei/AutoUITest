@@ -7,7 +7,7 @@ from AutoUIBJJJ02.page.app import App
 
 import os
 import sys
-rootpath=str(r"/root/.jenkins/workspace/BJJJ/AutoUIBJJJ02")
+rootpath=str(r"AutoUIBJJJ02")
 syspath=sys.path
 sys.path=[]
 sys.path.append(rootpath)#将工程根目录加入到python搜索路径中
