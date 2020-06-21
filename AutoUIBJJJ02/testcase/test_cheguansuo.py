@@ -8,7 +8,7 @@ pashs = sys.path
 print(pashs)
 for i in pashs:
     sys.path.append(i)
-
+print("-----------------------------------------------------------------")
 print(sys.path)
 
 
