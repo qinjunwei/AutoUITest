@@ -4,7 +4,13 @@
 # @Function:车管所业务测试用例执行
 
 import sys
+pashs = sys.path
+print(pashs)
+for i in pashs:
+    sys.path.append(i)
+
 print(sys.path)
+
 
 from time import sleep
 from AutoUIBJJJ02.page.app import App
